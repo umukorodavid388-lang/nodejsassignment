@@ -1,1 +1,0 @@
-console.log("Umukoro David", "18", "Python");
